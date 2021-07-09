@@ -1,0 +1,2 @@
+D:\OpennGl\OpennGL\x64\Debug\OpennGL.exe
+D:\OpennGl\OpennGL\x64\Debug\OpennGL.pdb

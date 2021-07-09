@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\OpennGl\OpennGL\main.cpp(184,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(207,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\OpennGl\OpennGL\main.cpp(208,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\OpennGl\OpennGL\main.cpp(209,27): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\OpennGl\OpennGL\main.cpp(325,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(326,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(330,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(331,21): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(333,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\OpennGl\OpennGL\main.cpp(334,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  OpennGL.vcxproj -> D:\OpennGl\OpennGL\x64\Debug\OpennGL.exe
