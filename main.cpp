@@ -4,7 +4,7 @@
 // GLEW
 #include <glad/glad.h>
 
-// GLFW
+// GLFW for windows
 #include <GLFW/glfw3.h>
 
 // Other Libs
